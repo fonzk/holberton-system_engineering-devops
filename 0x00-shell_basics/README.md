@@ -29,3 +29,5 @@ every scripts is explain here:
 - [ **8-firstdelete script**](./8-firstdelete) :This script delete the file ```betty``` from  ```/tmp/holberton```.
 
 - [**9-firstdirdeletion script**](./9-firstdirdeletion) :This script delete the directory ```holberton ```that is in the ```/tmp``` directory.
+
+ [**10-back script**](./10-back) :This script changes the working directory to the previous one.
