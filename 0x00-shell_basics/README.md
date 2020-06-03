@@ -39,4 +39,8 @@ every scripts is explain here:
 
 
 
+- [**13-symbolic_link**](./13-symbolic_link) :This script create a symbolic link to ```/bin/ls```, named ```__ls__```. The symbolic link should be created in the current working directory.
+
+
+
 
