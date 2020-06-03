@@ -26,3 +26,4 @@ every scripts is explain here:
 
 - [ **7-movethatfile script**]( "./7-movethatfile") :This script move the file ```betty``` from ```/tmp/``` to ```/tmp/holberton```.
 
+- [ **8-firstdelete script**](./8-firstdelete) :This script delete the file ```betty``` from  ```/tmp/holberton```.
