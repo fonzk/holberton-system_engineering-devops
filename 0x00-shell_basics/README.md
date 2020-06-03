@@ -44,3 +44,4 @@ every scripts is explain here:
 
 - [**16-clean_emacs script**](./16-clean_emacs) :This script deletes all files in the current working directory that end with the character ```~```.
 
+- [**17-tree script**](./17-tree) :This script creates the directories ```welcome/```, ```welcome/to/``` and ```welcome/to/holberton``` in the current directory.
