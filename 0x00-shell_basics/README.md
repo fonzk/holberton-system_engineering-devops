@@ -22,7 +22,7 @@ every scripts is explain here:
     - with user and group IDs displayed numerically.
     - And hidden files (starting with .)
  
-- [ **6-firstdirectory script**]( "./6-firstdirectory") :This script  hat creates a directory named holberton in the /tmp/ directory. 
- 
+- [ **6-firstdirectory script**]( "./6-firstdirectory") :This script  hat creates a directory named ```holberton``` in the ```/tmp/``` directory.
 
+- [ **7-movethatfile script**]( "./7-movethatfile") :This script move the file ```betty``` from ```/tmp/``` to ```/tmp/holberton```.
 
