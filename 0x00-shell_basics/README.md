@@ -7,9 +7,10 @@ This project have a lot of script i am explain what each script is doing
 
 every scripts is explain here:
 
-- [**0-current_working_directory script** ]( "./0-current_working_directory") : prints the absolute path name of the current working directory
+- [**0-current_working_directory script** ]( "./0-current_working_directory") :This script prints the absolute path name of the current working directory
 
-- [**1-listit script** ]( "./1-listit") : Display the contents list of your current directory
+- [**1-listit script** ]( "./1-listit") : This script display the contents list of your current directory
 
-- [ **2-bring_me_home script**]( "./2-bring_me_home") :this script  changes the working directory to the user’s home directory.
+- [ **2-bring_me_home script**]( "./2-bring_me_home") :This script  changes the working directory to the user’s home directory.
 
+- [ **3-listfiles script**]( "./3-listfiles") :This script  display current directory contents in a long format
