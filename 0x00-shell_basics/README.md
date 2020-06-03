@@ -14,3 +14,9 @@ every scripts is explain here:
 - [ **2-bring_me_home script**]( "./2-bring_me_home") :This script  changes the working directory to the user’s home directory.
 
 - [ **3-listfiles script**]( "./3-listfiles") :This script  display current directory contents in a long format
+
+- [ **4-listmorefiles script**]( "./4-listmorefiles") :This script  display current directory contents in a long format including hidden files
+ 
+
+
+
