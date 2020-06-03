@@ -16,7 +16,10 @@ every scripts is explain here:
 - [ **3-listfiles script**]( "./3-listfiles") :This script  display current directory contents in a long format
 
 - [ **4-listmorefiles script**]( "./4-listmorefiles") :This script  display current directory contents in a long format including hidden files
+
+- [ **5-listfilesdigitonly script**]( "./5-listfilesdigitonly") :This script  display current directory contents.
+    - Long format
+    - with user and group IDs displayed numerically.
+    - And hidden files (starting with .)
  
-
-
 
