@@ -38,5 +38,10 @@ every scripts is explain here:
 
 - [**11-directories_permissions script** ](./11-directories_permissions) :This script adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed.
 
-12-directory_permissions
+
 - [**12-directory_permissions script** ](./12-directory_permissions) :This script creates a directory called ```dir_holberton``` with permissions 751 in the working directory.
+
+- [**13-change_group script** ](./13-change_group) :This script changes the group owner to ```holberton``` for the file ```hello```.
+
+
+
