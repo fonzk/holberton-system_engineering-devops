@@ -43,5 +43,10 @@ every scripts is explain here:
 
 - [**13-change_group script** ](./13-change_group) :This script changes the group owner to ```holberton``` for the file ```hello```.
 
+Task: Owner and group 
+
+- [**14-change_owner_and_group script** ](./14-change_owner_and_group) :This script  changes the owner to ```betty``` and the group owner to ```holberton``` for all the files and directories in the working directory.
+
+
 
 
