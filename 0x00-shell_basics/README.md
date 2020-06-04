@@ -45,3 +45,10 @@ every scripts is explain here:
 - [**16-clean_emacs script**](./16-clean_emacs) :This script deletes all files in the current working directory that end with the character ```~```.
 
 - [**17-tree script**](./17-tree) :This script creates the directories ```welcome/```, ```welcome/to/``` and ```welcome/to/holberton``` in the current directory.
+
+- [**18-commas script**](./18-commas) :This script lists all the files and directories of the current directory, separated by commas (```,```).
+
+    - Directory names should end with a slash (```/```)
+    - Files and directories starting with a dot (```.```) should be listed
+    - The listing should be alpha ordered, except for the directories ```.``` and ```..``` which should be listed at the very beginning
+    - Only digits and letters are used to sort; Digits should come first
