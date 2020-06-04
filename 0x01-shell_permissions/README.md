@@ -43,10 +43,10 @@ every scripts is explain here:
 
 - [**13-change_group script** ](./13-change_group) :This script changes the group owner to ```holberton``` for the file ```hello```.
 
-Task: Owner and group 
-
 - [**14-change_owner_and_group script** ](./14-change_owner_and_group) :This script  changes the owner to ```betty``` and the group owner to ```holberton``` for all the files and directories in the working directory.
 
+Task:Symbolic links
+- [**15-symbolic_link_permissions script** ](./15-symbolic_link_permissions) :This script changes the owner and the group owner of the file ```_hello``` to ```betty``` and ```holberton``` respectively.
 
 
 
