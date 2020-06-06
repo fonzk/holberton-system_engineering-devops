@@ -9,4 +9,4 @@ every scripts is explain here:
 
 - [**0-hello_world script** ](./0-hello_world) :This script prints “Hello, World”, followed by a new line to the standard output.
 
-
+- [**1-confused_smiley script** ](./1-confused_smiley) :This script Write a script that displays a confused smiley "(Ôo)'.
