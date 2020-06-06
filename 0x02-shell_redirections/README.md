@@ -14,3 +14,5 @@ every scripts is explain here:
 - [**2-hellofile script** ](./2-hellofile) :This script Display the content of the ```/etc/passwd``` file.
 
 - [**3-twofiles script** ](./3-twofiles) :This script Display the content of ```/etc/passwd``` and ```/etc/hosts```
+
+- [**4-lastlines script** ](./4-lastlines) :This script Display the last 10 lines of ```/etc/passwd```
