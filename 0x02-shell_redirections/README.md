@@ -1,0 +1,12 @@
+# Shell, I/O Redirections and filters
+
+This project have a lot of script i am explain what each script is doing
+
+
+### scripts explain
+
+every scripts is explain here:
+
+- [**0-hello_world script** ](./0-hello_world) :This script prints “Hello, World”, followed by a new line to the standard output.
+
+
