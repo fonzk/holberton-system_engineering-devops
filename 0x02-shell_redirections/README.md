@@ -12,3 +12,5 @@ every scripts is explain here:
 - [**1-confused_smiley script** ](./1-confused_smiley) :This script Write a script that displays a confused smiley ```"(Ôo)'```.
 
 - [**2-hellofile script** ](./2-hellofile) :This script Display the content of the ```/etc/passwd``` file.
+
+- [**3-twofiles script** ](./3-twofiles) :This script Display the content of ```/etc/passwd``` and ```/etc/hosts```
