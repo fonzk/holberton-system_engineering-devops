@@ -32,3 +32,5 @@ every scripts is explain here:
 - [**11-directories script** ](./11-directories) :This script counts the number of directories and sub-directories in the current directory.
 
 - [**12-newest_files script** ](./12-newest_files) :This script displays the 10 newest files in the current directory.
+
+- [**13-unique script** ](./13-unique) :This script takes a list of words as input and prints only words that appear exactly once.
