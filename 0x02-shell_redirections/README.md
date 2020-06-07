@@ -46,3 +46,5 @@ every scripts is explain here:
 - [**18-letteronly script** ](./18-letteronly) :This script 
 Display all lines of the file ```/etc/ssh/sshd_config``` starting with a letter.
 
+- [**19-AZ script** ](./19-AZ) :This script 
+Replace all characters ```A``` and ```c``` from input to ```Z``` and ```e``` respectively.
