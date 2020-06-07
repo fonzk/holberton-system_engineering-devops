@@ -51,3 +51,7 @@ Replace all characters ```A``` and ```c``` from input to ```Z``` and ```e``` res
 
 - [**20-hiago script** ](./20-hiago) :This script 
 removes all letters ```c``` and ```C``` from input.
+
+- [**21-reverse script** ](./21-reverse) :This script reverse its input.
+
+
