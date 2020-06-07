@@ -54,4 +54,5 @@ removes all letters ```c``` and ```C``` from input.
 
 - [**21-reverse script** ](./21-reverse) :This script reverse its input.
 
+- [**22-users_and_homes script** ](./22-users_and_homes) :This script  displays all users and their home directories, sorted by users.
 
