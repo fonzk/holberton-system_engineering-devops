@@ -42,3 +42,7 @@ every scripts is explain here:
 - [**16-whatsnext script** ](./16-whatsnext) :This script Display lines containing the pattern “root” and 3 lines after them in the file```/etc/passwd```.
 
 - [**17-hidethisword script** ](./17-hidethisword) :This script Display all the lines in the file ```/etc/passwd``` that do not contain the pattern “bin”.
+
+- [**18-letteronly script** ](./18-letteronly) :This script 
+Display all lines of the file ```/etc/ssh/sshd_config``` starting with a letter.
+
